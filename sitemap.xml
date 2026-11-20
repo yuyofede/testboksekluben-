@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://grimstadbk.com/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/om-oss.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/om-oss.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/om-oss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/om-oss.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/trening.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/trening.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/training.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/trening.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/en/training.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/trening.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/training.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/trening.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/kontakt.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/kontakt.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/personvern.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/personvern.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/personvern.html"/>
+  </url>
+  <url>
+    <loc>https://grimstadbk.com/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://grimstadbk.com/personvern.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grimstadbk.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grimstadbk.com/personvern.html"/>
+  </url>
+</urlset>
