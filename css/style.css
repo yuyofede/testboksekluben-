@@ -376,6 +376,11 @@ p:last-child { margin-bottom: 0; }
   object-fit: cover;
   object-position: 50% 38%;
   opacity: 0.9;
+  animation: hero-media-in 1.2s var(--ease) both;
+}
+@keyframes hero-media-in {
+  from { opacity: 0; transform: scale(1.07); }
+  to { opacity: 0.9; transform: scale(1); }
 }
 .hero-media::after {
   content: "";
@@ -1297,6 +1302,7 @@ p:last-child { margin-bottom: 0; }
     transition-duration: 0.001ms !important;
   }
   [data-reveal] { opacity: 1; transform: none; }
+  .hero-media img { animation: none; }
 }
 
 @media print {
