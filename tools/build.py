@@ -177,18 +177,20 @@ WEEK = {
 
 SCHEDULE = {
     "no": [
-        ("Mandag", "19:00–20:30", "Boksing, viderekomne", "Teknikk og sparring for deg som har trent en stund."),
+        ("Mandag", "18:00–19:30", "Boksing, viderekomne", "Teknikk og sparring for deg som har trent en stund."),
         ("Tirsdag", "18:00–19:30", "Boksing, alle", "Grunnleggende teknikk og allsidig trening for alle nivåer."),
         ("Onsdag", "18:00–19:00", "Sekkøkt, alle", "Kondisjon og slagteknikk på sekken."),
         ("Torsdag", "17:30–18:30", "Boks stødig", "Rolig økt med balanse, fotarbeid og teknikk."),
-        ("Torsdag", "19:00–20:30", "Boksing, alle", "Boksing for alle – en god avslutning på uken."),
+        ("Torsdag", "18:00–19:30", "Boksing, alle", "Boksing for alle – en god avslutning på uken."),
+        ("Lørdag", "11:00–13:00", "Boksing, alle", "Boksing for alle – en økt i helgen."),
     ],
     "en": [
-        ("Monday", "19:00–20:30", "Boxing, advanced", "Technique and sparring for members with some experience."),
+        ("Monday", "18:00–19:30", "Boxing, advanced", "Technique and sparring for members with some experience."),
         ("Tuesday", "18:00–19:30", "Boxing, all levels", "Basic technique and all-round training for every level."),
         ("Wednesday", "18:00–19:00", "Bag session, all", "Conditioning and punching technique on the heavy bag."),
         ("Thursday", "17:30–18:30", "Steady boxing", "A calmer session focused on balance, footwork and technique."),
-        ("Thursday", "19:00–20:30", "Boxing, all levels", "Boxing for everyone – a good way to end the week."),
+        ("Thursday", "18:00–19:30", "Boxing, all levels", "Boxing for everyone – a good way to end the week."),
+        ("Saturday", "11:00–13:00", "Boxing, all levels", "Boxing for everyone – a weekend session."),
     ],
 }
 
